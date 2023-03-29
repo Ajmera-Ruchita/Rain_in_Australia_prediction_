@@ -4,8 +4,9 @@ In this project, I will be implementing a predictive model on Rain Dataset to pr
 
 
 Table of contents:
-1. Problem Statement                                                                                                                                                    
-2.Data Source
+1. Problem Statement
+
+2.Data Source                                                                                                                                                  
 
 3.Importing Necessary Libraries
 

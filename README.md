@@ -50,4 +50,6 @@ Number of columns: 23
 
 Number of rows: 145460
 
-Number of Independent Columns: 22Number of Dependent Column: 1
+Number of Independent Columns: 22
+
+Number of Dependent Column: 1

@@ -1,9 +1,10 @@
 # Rain_in_Australia_prediction
-Introduction:
+#Introduction:
 In this project, I will be implementing a predictive model on Rain Dataset to predict whether or not it will rain tomorrow in Australia. The Dataset contains about 10 years of daily weather observations of different locations in Australia. 
 
 
-Table of contents:
+#Table of contents:
+
 1.Problem Statement
 
 2.Data Source                                                                                                                                                  
@@ -28,7 +29,8 @@ Table of contents:
 
 12.Feature Importance
 
-13,Splitting Data into Training and Testing sets
+13.Splitting Data into Training and Testing sets
+
 14.Feature Scaling
 
 15.Model Building and Evaluation

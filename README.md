@@ -4,7 +4,7 @@ In this project, I will be implementing a predictive model on Rain Dataset to pr
 
 
 Table of contents:
-1. Problem Statement
+1.Problem Statement
 
 2.Data Source                                                                                                                                                  
 
@@ -45,7 +45,9 @@ The dataset is taken from Kaggle and contains about 10 years of daily weather ob
 
 
 Dataset Description:
+
 Number of columns: 23
+
 Number of rows: 145460
-Number of Independent Columns: 22
-Number of Dependent Column: 1
+
+Number of Independent Columns: 22Number of Dependent Column: 1
